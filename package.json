@@ -1,0 +1,15 @@
+{
+  "name": "exercicio-node-thales",
+  "version": "1.0.0",
+  "description": "exercicio pratico realizado em sala de aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thales Gomes",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
